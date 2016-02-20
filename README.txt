@@ -4,7 +4,7 @@ Ultrasonic for Photon
 Ultrasonic library for Photon
 
 
-Example test-mpu9150.ino is dependent on:
+Example test-ultrasonic.ino is dependent on:
 
 	Ultrasonic.h
 	Ultrasonic.cpp
